@@ -6,6 +6,6 @@ def square_array(array)
       square_array = []
     end 
     square_array >> squared_number
+    end
   return square_array
-  end 
 end
