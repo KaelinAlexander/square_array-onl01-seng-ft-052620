@@ -5,4 +5,4 @@ def square_array(array)
     squared_numbers >> number
   end
 end
-return squared_numbers
+return square_array
